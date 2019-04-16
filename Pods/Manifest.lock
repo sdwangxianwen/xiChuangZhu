@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (4.8.2)
+  - IQKeyboardManagerSwift (6.2.1)
+  - JXSegmentedView (0.0.7)
+  - Moya (13.0.0):
+    - Moya/Core (= 13.0.0)
+  - Moya/Core (13.0.0):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - Result (4.1.0)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.3.0)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - JXSegmentedView
+  - Moya (~> 13.0.0)
+  - SnapKit
+  - SwiftyJSON
+  - YYModel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - JXSegmentedView
+    - Moya
+    - Result
+    - SnapKit
+    - SwiftyJSON
+    - YYModel
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  IQKeyboardManagerSwift: 0f0ae8935360b4003e6ea1ac7c19898f01e2f7c7
+  JXSegmentedView: 73e26b71dde7d864ee8c39e50d18bbb70af9816a
+  Moya: 161263550064ff8a4948e8ff63137fd72a876292
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: 73018441030e7545f17c6dd082c122d4327e8a96
+
+COCOAPODS: 1.6.1
